@@ -1,12 +1,12 @@
 <?php
 
-require __DIR__ . '/vender/autoload.php'; 
+// require __DIR__ . '/vender/autoload.php'; 
 // autoloads the files ^^
-use Cocur\Slugify\Slugify;
+// use cocur\slugify\Slugify;
 // same as import in node
 
-$slugify = new Slugify();
-echo $slugify->slugify('the sky is blue and the grass is green');
+// $slugify = new Slugify();
+// echo $slugify->slugify('the sky is blue and the grass is green');
 
 // $dogName = 'barksAlot';
 
