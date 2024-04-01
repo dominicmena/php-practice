@@ -1,5 +1,5 @@
 <?php
 
-$thisNumber = 2 + 2;
+$dogName = 'barksAlot';
 
-echo $thisNumber + 10;
+echo 'the dogs name is ' . $dogName . ' for sure';
